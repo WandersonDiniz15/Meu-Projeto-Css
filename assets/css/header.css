@@ -1,0 +1,23 @@
+header section{
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+header img {
+width:  150px;
+}
+
+header nav ul{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+
+
+}
+header nav ul li a{
+  margin: 0 15px;
+  color: #3399cc;
+}
+

@@ -1,0 +1,36 @@
+.sobre-front-end{
+justify-content: space-between;
+align-items: center;
+}
+
+.sobre-front-end article{
+  width: 250px;
+}
+.sobre-front-end article h1{
+font-size: 70px;
+line-height: 90%;
+font-weight: 400;
+color: blue;
+
+}
+.sobre-front-end article h2,
+.sobre-front-end article p{
+color: #3399cc;
+}
+
+.sobre-front-end article h2{
+  font-size: 30px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  line-height: 200%;
+  
+}
+
+.sobre-front-end article p{
+  margin: 15px 0 40px;
+}
+
+.sobre-front-end figcaption img{
+  width: 700px;
+
+}
