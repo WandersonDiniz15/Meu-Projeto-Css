@@ -13,12 +13,12 @@
 body{
 background-image:url('../imagens/bolha-background.png') ;
 background-repeat: no-repeat;
-background-position: left cente;
+background-position: left center;
 
 }
 .container{
   width: 1024px;
-  margin: 50px auto;
+  margin: 40px auto;
   display: flex;
   flex-direction: column;
 }
